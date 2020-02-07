@@ -1,0 +1,152 @@
+body {
+        margin: 0;
+        text-align: center;
+    }
+
+h1 {
+    font-size: 5.625rem;
+    color: whitesmoke;
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    }
+h2 {
+    font-size: 2.5rem;
+    margin-top: 30px;
+    color: lightseagreen;
+    font-family: 'Merriweather', sans-serif;
+    }
+h3 {
+    font-family: 'Merriweather', serif;
+    color: lightseagreen;
+    }
+
+a { 
+    text-decoration: none;
+    }
+
+
+hr {
+        border-style: none;
+        border-top-style: dotted;
+        border-top-width: 5px;
+        border-top-color: lightseagreen;
+        width: 10%;
+    }
+
+.top-container{
+        background-color: lightseagreen;
+        position: relative;
+        padding: 100px 100px 0px 100px;
+    }
+
+.middle-container {
+    
+
+                }
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 0px;
+    position: relative;
+    padding: 30px;
+    
+    
+    
+    }                
+
+.top-cloud {
+    position: absolute;
+    right: 31.25rem;
+    top: 3.125rem;
+    
+    
+    
+    
+    
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 450px;
+    bottom: 400px;
+    
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.tsupport-class {
+        width: 25%;
+        float: right;
+        padding-left: 30px;
+    }
+.coding-class {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+    
+}
+
+.about-me {
+    text-align: center;
+    color: #40514E
+}
+
+.btn {
+    background-color: #66BFBF;
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 5px;
+}
+
+.profile {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.Derrick-img {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.footer-link {
+    font-size: 18px;
+    font-family: 'Merriweather', serif;
+    color: white;
+    padding: 20px;
+    font-weight: bolder;
+    text-decoration: none;
+
+}
+
+.copyright {
+    font-weight: bolder;
+    font-family: 'Montserrat', serif;
+    color: white;
+    font-size: 12px;
+}
+
+.contact-me {
+    border: 50px;
+    margin: 200px;
+    text-align: center;
+    
+}
+
+.hello{
+    text-align: center;
+}
+
+.programmer{
+    color: white;
+}
