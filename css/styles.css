@@ -11,7 +11,7 @@ h1 {
     }
 h2 {
     font-size: 2.5rem;
-    margin-top: 60px;
+    margin-top: 30px;
     color: lightseagreen;
     font-family: 'Merriweather', sans-serif;
     }
@@ -98,28 +98,13 @@ hr {
 }
 
 .btn {
-	box-shadow: 0px 10px 14px -7px #f0f7fa;
-	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
-	background-color:#33bdef;
-	border-radius:8px;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:20px;
-	font-weight:bold;
-	padding:13px 32px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #5b6178;
-}
-.btn:hover {
-	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
-	background-color:#019ad2;
-}
-.btn:active {
-	position:relative;
-	top:1px;
-}
+    background-color: #66BFBF;
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 5px;
+    
 }
 
 .profile {
